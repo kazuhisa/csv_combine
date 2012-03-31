@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "csv_combine"
   gem.homepage = "http://github.com/kazuhisa/csv_combine"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{The combined CSV file is read.}
+  gem.description = %Q{The combined CSV file is read.}
   gem.email = "ak.hisashi@gmail.com"
   gem.authors = ["Yamamoto Kazuhisa"]
   # dependencies defined in Gemfile
